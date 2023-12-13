@@ -1,0 +1,25 @@
+Project Name/Domain/Industry: AtliQ Mart Supply Chain Analysis
+Skills/Technology Used: Power BI, DAX (Data Analysis Expressions), Excel, Pivot Table.
+
+Description:
+Led a comprehensive supply chain analysis project aimed at optimizing operational efficiency and enhancing decision-making within the organization. Utilized various data sources, including dim_products, dim_date, dim_customers, fact_order_lines, and fact_orders_aggregate CSV files. The analysis focused on:
+
+Order Fulfillment Metrics: Examined key metrics such as on-time delivery, in-full delivery, and on-time in-full delivery, providing insights into order accuracy and fulfillment efficiency.
+
+Customer Segmentation: Employed clustering techniques on dim_customers data to identify distinct customer segments, allowing for targeted strategies and personalized service.
+
+Product Performance: Analyzed dim_products data to understand product popularity, stock levels, and contribution to overall sales, enabling effective inventory management.
+
+Target Achievement: Evaluated dim_targets_orders data to measure and visualize the achievement of on-time delivery targets, supporting performance tracking against set goals.
+
+Dynamic Visualizations: Created dynamic and interactive visualizations using Power BI, offering stakeholders a user-friendly interface for exploring and interpreting complex supply chain data.
+
+DAX Measures: Implemented DAX measures to calculate total order lines, line fill rate, volume fill rate, on-time delivery percentage, in-full delivery percentage, and on-time in-full percentage, providing actionable insights for performance evaluation.
+
+This project showcased expertise in data modeling, relationship establishment, and DAX scripting. The resulting visuals and analyses empowered the organization to make informed decisions, optimize supply chain processes, and enhance overall operational performance.
+
+
+
+
+
+
