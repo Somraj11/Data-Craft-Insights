@@ -1,0 +1,24 @@
+
+Project Name/Domain/Industry: Marketing Campaign Analysis of a Food & Beverages Company (Retail)
+
+Skills/Technology Used:
+
+SQL
+MySQL Workbench
+Data Analysis
+JOIN, GROUP BY, Aggregation functions
+Strategic Analysis 
+Business Analysis
+
+Description:
+
+Conducted a comprehensive analysis of the Food & Beverages retail sector, focusing on energy drinks, using SQL.
+Applied advanced SQL techniques such as JOIN, GROUP BY, and COUNT to derive meaningful insights from datasets including dim_respondents, dim_cities, and fact_survey_responses.
+Assessed respondent demographics, preferences, and perceptions, uncovering key trends in energy drink consumption patterns.
+Determined the most effective marketing channels and identified cities for targeted retail strategies.
+Utilized SQL to evaluate overall brand perception and pinpoint areas for strategic focus in the retail industry.
+Demonstrated proficiency in data manipulation and strategic analysis, providing actionable business intelligence for the retail sector.
+
+
+
+
