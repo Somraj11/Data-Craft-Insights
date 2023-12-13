@@ -1,0 +1,45 @@
+Project Name/Domain/Industry: Consumer Spending Analytics in Banking
+
+Skills/Technology Used:
+Python (Pandas, Matplotlib, Seaborn), Data Analysis, Exploratory Data Analysis (EDA), Visualization Techniques, Correlation Analysis.
+
+Description:
+This project involved the in-depth analysis of banking data to derive valuable insights into consumer spending patterns. Utilizing Python, the project employed Pandas for data manipulation, Matplotlib and Seaborn for visualizations, and various data analysis techniques for exploration.
+
+Monthly Spending Analysis:
+
+Examined the spending trends over months to identify patterns and fluctuations in consumer behavior.
+Most Popular Payment Type:
+
+Determined the most popular payment type overall, providing insights into consumer payment preferences.
+Monthly Spending by Gender:
+
+Analyzed monthly spending patterns, revealing if there were significant differences in spending between genders.
+City-wise Spending Analysis:
+
+Explored how spending varied across different cities, offering valuable geographical insights.
+Category-wise Spending Trend:
+
+Visualized the trend of spending in each category over the months, aiding in category-specific strategies.
+Payment Type Preference by Gender:
+
+Analyzed the preference for payment types among different genders, contributing to targeted marketing strategies.
+Average Spending by Occupation:
+
+Determined the average spending based on the occupation of customers, offering insights for targeted promotions.
+Age Group-wise Spending Pattern:
+
+Explored spending patterns among different age groups, aiding in demographic-specific marketing approaches.
+Correlation Between Average Income and Spending:
+
+Investigated if there was any correlation between a customer's average income and their spending, providing financial insights.
+Data Cleaning and Checks:
+
+Ensured data integrity by checking for null values, duplicates, and errors in the dataset.
+This project not only honed skills in data analysis and visualization but also provided actionable insights for strategic decision-making in the banking industry.
+
+
+
+
+
+
