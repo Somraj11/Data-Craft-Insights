@@ -1,0 +1,30 @@
+
+Project Name/Domain/Industry: Sport Products Sales Analysis (Retail)
+
+Skills/Technology Used: Power BI, DAX (Data Analysis Expressions), Excel, Pivot Table.
+
+Description:
+This project focuses on analyzing sales data in the retail industry, specifically sport products. The dataset includes information such as retailer details, product sales, profit margins, and sales methods. The aim is to derive actionable insights that can inform business strategies and improve overall performance.
+
+Visualizations and Insights:
+
+KPI Cards display essential metrics like the number of orders, total sales, total profit, total sold quantity, and profit margin at a glance.
+Sales Analysis section includes bar charts for total sales by retailer and product, a filled map for total sales and profit by state, and line charts showcasing total profit and sales by year and month for specific states.
+Pie charts illustrate the distribution of total sales and sold quantity by region.
+Gender-specific sales analysis breaks down total sales for men's and women's products by year and month.
+Custom Measures and Calculations:
+
+Profit Margin measure calculates the ratio of operating profit to total sales, expressed as a percentage.
+Various SUMX and AVERAGEX functions are used to aggregate data and create meaningful measures for specific analyses.
+Dashboard Design and Reporting:
+
+The dashboard follows a cohesive and visually appealing theme for a consistent user experience.
+Slicers and filters enable users to interactively explore data by selecting specific regions, products, or time periods.
+Tooltips provide additional context and details when users hover over data points.
+Strategic Decision-Making:
+
+The project empowers decision-makers by providing insights into key performance indicators such as sales, profit margins, and product performance.
+Regional analysis helps in identifying areas with high and low sales, guiding strategic decisions on marketing and resource allocation.
+Gender-specific sales analysis informs inventory and marketing strategies tailored to the preferences of male and female customers.
+Profit analysis by sales method assists in evaluating the effectiveness of different sales channels, guiding decisions on resource allocation and marketing efforts.
+This Sport Products Sales Analysis project equips stakeholders with a powerful tool to make informed decisions, optimize sales strategies, and drive overall business success in the retail industry.
