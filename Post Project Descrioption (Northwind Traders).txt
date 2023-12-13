@@ -1,0 +1,20 @@
+Project Name/Domain/Industry: Northwind Traders Sales Analysis (Retail)
+
+Skills/Technology Used: Power BI, DAX (Data Analysis Expressions), Excel, Pivo Table.
+
+Description:
+Conducted a comprehensive data analysis project for Northwind Traders, a fictitious gourmet food supplier. Utilized Power BI to explore and analyze sales and order data, deriving actionable insights for strategic decision-making.
+
+Visualizations and Insights:
+Developed impactful visualizations, including bar charts, line charts, scatter plots, and more, to uncover key insights into sales performance, customer behavior, and product trends. Visualized the distribution of products by category, identified customer demographics, and analyzed shipping performance by different shippers.
+
+Custom Measures and Calculations:
+Created custom measures using DAX to calculate important business metrics such as sales growth, active products, on-time shipping rates, and average order value. These measures provided a deeper understanding of business performance and helped in optimizing operational processes.
+
+Dashboard Design and Reporting:
+Designed intuitive dashboards and reports, enhancing data presentation and accessibility for stakeholders. The visualizations and reports served as valuable tools for communication, aiding in effective decision-making across departments.
+
+Strategic Decision-Making:
+The project aimed to empower Northwind Traders with data-driven insights, enabling informed decision-making in areas such as inventory management, marketing strategies, and customer satisfaction. The analysis contributed to a holistic understanding of the business landscape.
+
+This project highlights my expertise in Power BI and data analysis, demonstrating the ability to extract meaningful insights from complex datasets to drive business improvements in the retail sector.
