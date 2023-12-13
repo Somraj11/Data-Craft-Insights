@@ -1,0 +1,29 @@
+Project Name/Domain/Industry: AtliQo Telecom Data Analysis.
+
+Skills/Technology Used:
+
+Power BI, Data Analysis Expressions (DAX), Excel, Pivot Table, Dimensional Modeling, Numerical Transformation, Market Share Analysis, Data Visualization.
+
+Description:
+Embarked on a challenging telecom analysis project, manipulating a dataset of six interconnected tables. Explored dimensions such as city, date, and telecom plans, incorporating revenue, market share, and user metrics. Addressed the complexities introduced by the 5G technology shift, meticulously dissecting revenue trends before and after implementation. Implemented numerical transformations, converting plan revenue from crores to millions. Developed advanced DAX measures to calculate key performance indicators (KPIs) like Total Revenue, ARPU, Monthly Active Users, and Churn Percentage.
+
+Visualizations and Insights:
+
+Created dynamic Power BI visualizations, including line charts, bar charts, and scatter plots.
+Visualized revenue trends, market share dynamics, and user behaviors.
+Utilized treemaps and donut charts for intuitive plan revenue distribution.
+Custom Measures and Calculations:
+
+Calculated percentage change in revenue month-over-month.
+Derived churn percentages for distinct periods, including before and after 5G implementation.
+Converted plan revenue values from crores to millions for enhanced numerical interpretation.
+Dashboard Design and Reporting:
+
+Designed interactive Power BI dashboards for user-friendly exploration.
+Incorporated slicers and filters for dynamic data filtering.
+Ensured comprehensive reporting, displaying insights at both macro and granular levels.
+Strategic Decision-Making:
+
+Facilitated strategic decision-making by providing insights into revenue drivers and market dynamics.
+Informed decisions related to 5G implementation impact on revenue and market share.
+Empowered stakeholders with a comprehensive view for informed and data-driven strategies within the dynamic telecom landscape.
